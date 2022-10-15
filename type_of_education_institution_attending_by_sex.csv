@@ -1,0 +1,13 @@
+Type,Sex,Value
+Preschool,Males,"252,530"
+Preschool,Females,"231,654"
+Primary school,Males,"1,064,524"
+Primary school,Females,"1,010,697"
+Secondary school,Males,"827,178"
+Secondary school,Females,"802,444"
+Vocational education,Males,"275,110"
+Vocational education,Females,"326,781"
+University or higher education,Males,"495,019"
+University or higher education,Females,"690,438"
+Other educational institution,Males,"106,207"
+Other educational institution,Females,"136,615"
